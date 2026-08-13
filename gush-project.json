@@ -1,0 +1,28 @@
+{
+  "name": "python-gush-ai-api",
+  "display_name": "Python-Gush-Ai-API",
+  "type": "python-app",
+  "version": "1.0.0",
+  "description": "New project",
+  "author": "Developer",
+  "license": "MIT",
+  "generated_by": "Gush AI Codex V10.5",
+  "generated_at": "2026-08-13T03:41:22.819Z",
+  "files": [
+    "app/config.py",
+    "app/github.py",
+    "app/main.py",
+    "app/health.py",
+    "app/__init__.py",
+    "requirements.txt",
+    "Dockerfile",
+    ".env.example",
+    ".gitignore",
+    "README.md",
+    "index.html",
+    "tests/test_api.py",
+    ".github/workflows/ci.yml",
+    "Makefile",
+    "LICENSE"
+  ]
+}
